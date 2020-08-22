@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+}
+.quwi__form{
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 200px;
+    padding-bottom: 20px;
+}
+.quwi__number-phone{
+    width: 200px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.quwi__api-token{
+    width: 200px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.quwi__search{
+	width: 150px;
+    height: 40px;
+    margin-left: 175px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.quwi__result-box{
+    width: 500px;
+    height: 120px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 55px;
+    text-align: center;
+    line-height: 110px;
+}
